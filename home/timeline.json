@@ -1,23 +1,23 @@
 [
   {
-    "name": "15/04/20", "#coronavirus": 4000, "#covid19": 2400, "#fase1": 2400,
+    "name": "15/04/20", "#coronavirus": 4000, "#covid19": 2400, "#fase1": 2400
   },
   {
-    "name": "16/04/20", "#coronavirus": 3000, "#covid19": 1398, "#fase1": 2210,
+    "name": "16/04/20", "#coronavirus": 3000, "#covid19": 1398, "#fase1": 2210
   },
   {
-    "name": "17/04/20", "#coronavirus": 2000, "#covid19": 9800, "#fase1": 2290,
+    "name": "17/04/20", "#coronavirus": 2000, "#covid19": 9800, "#fase1": 2290
   },
   {
-    "name": "18/04/20", "#coronavirus": 2780, "#covid19": 3908, "#fase1": 2000,
+    "name": "18/04/20", "#coronavirus": 2780, "#covid19": 3908, "#fase1": 2000
   },
   {
-    "name": "19/04/20", "#coronavirus": 1890, "#covid19": 4800, "#fase1": 2181,
+    "name": "19/04/20", "#coronavirus": 1890, "#covid19": 4800, "#fase1": 2181
   },
   {
-    "name": "20/04/20", "#coronavirus": 2390, "#covid19": 3800, "#fase1": 2500,
+    "name": "20/04/20", "#coronavirus": 2390, "#covid19": 3800, "#fase1": 2500
   },
   {
-    "name": "21/04/20", "#coronavirus": 3490, "#covid19": 4300, "#fase1": 2100,
-  },
+    "name": "21/04/20", "#coronavirus": 3490, "#covid19": 4300, "#fase1": 2100
+  }
 ]
