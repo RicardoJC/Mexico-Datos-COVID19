@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "Alegría", "A": 120
+  },
+  {
+    "subject": "Tristeza", "A": 98
+  },
+  {
+    "subject": "Sorpresa", "A": 86
+  },
+  {
+    "subject": "Desagrado", "A": 99
+  },
+  {
+    "subject": "Miedo", "A": 85
+  },
+  {
+    "subject": "Enojo", "A": 65
+  }
+]
