@@ -1,23 +1,8 @@
 [
-  {
-    "name": "15/04/20", "#coronavirus": 4000, "#covid19": 2400, "#fase1": 2400
-  },
-  {
-    "name": "16/04/20", "#coronavirus": 3000, "#covid19": 1398, "#fase1": 2210
-  },
-  {
-    "name": "17/04/20", "#coronavirus": 2000, "#covid19": 9800, "#fase1": 2290
-  },
-  {
-    "name": "18/04/20", "#coronavirus": 2780, "#covid19": 3908, "#fase1": 2000
-  },
-  {
-    "name": "19/04/20", "#coronavirus": 1890, "#covid19": 4800, "#fase1": 2181
-  },
-  {
-    "name": "20/04/20", "#coronavirus": 2390, "#covid19": 3800, "#fase1": 2500
-  },
-  {
-    "name": "21/04/20", "#coronavirus": 3490, "#covid19": 4300, "#fase1": 2100
-  }
+{"covid19":3,"coronavirus":126,"@HLGatell":4,"@lopezobrador_":847,"ansiedad":29,"depresion":0,"day":"2020-03-06"},
+{"covid19":4,"coronavirus":177,"@HLGatell":7,"@lopezobrador_":819,"ansiedad":36,"depresion":0,"day":"2020-03-07"},
+{"covid19":2,"coronavirus":119,"@HLGatell":12,"@lopezobrador_":975,"ansiedad":18,"depresion":2,"day":"2020-03-08"},
+{"covid19":4,"coronavirus":158,"@HLGatell":4,"@lopezobrador_":1580,"ansiedad":30,"depresion":0,"day":"2020-03-09"},
+{"covid19":4,"coronavirus":265,"@HLGatell":19,"@lopezobrador_":1345,"ansiedad":51,"depresion":1,"day":"2020-03-10"},
+{"covid19":1,"coronavirus":104,"@HLGatell":10,"@lopezobrador_":287,"ansiedad":19,"depresion":0,"day":"2020-03-11"}
 ]
