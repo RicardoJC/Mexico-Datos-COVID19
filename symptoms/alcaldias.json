@@ -1,4 +1,5 @@
 {
+    "time":"Tue May 26 11:06:19 2020",
     "type": "FeatureCollection",
     "features": [
         {
@@ -11744,7 +11745,7 @@
                 "cve_mun": "010",
                 "cvegeo": "09010",
                 "cve_ent": "09",
-                "nomgeo": "\u00c1lvaro Obreg\u00f3n",
+                "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
                     "sintomas": 370,
@@ -33670,7 +33671,7 @@
                 "cve_mun": "015",
                 "cvegeo": "09015",
                 "cve_ent": "09",
-                "nomgeo": "Cuauht\u00e9moc",
+                "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
                     "sintomas": 1670,
@@ -41821,7 +41822,7 @@
                 "cve_mun": "014",
                 "cvegeo": "09014",
                 "cve_ent": "09",
-                "nomgeo": "Benito Ju\u00e1rez",
+                "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
                     "sintomas": 1233,
@@ -48203,7 +48204,7 @@
                 "cve_mun": "003",
                 "cvegeo": "09003",
                 "cve_ent": "09",
-                "nomgeo": "Coyoac\u00e1n",
+                "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
                     "sintomas": 806,
@@ -59038,7 +59039,7 @@
                 "cve_mun": "011",
                 "cvegeo": "09011",
                 "cve_ent": "09",
-                "nomgeo": "Tl\u00e1huac",
+                "nomgeo": "Tláhuac",
                 "municipio": "11",
                 "data": {
                     "sintomas": 31,
