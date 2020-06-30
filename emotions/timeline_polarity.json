@@ -2,953 +2,476 @@
  "time": "Mon Jun  25 17:15:56 2020",
  "data": [
   {
-   "enojo": 124.0,
-   "anticipacion": 297.0,
-   "disgusto": 46.0,
-   "miedo": 1122.0,
-   "alegria": 41.0,
-   "tristeza": 96.0,
-   "sorpresa": 3.0,
-   "confianza": 124.0,
    "neutro": 1460.0,
    "positivo": 521.0,
    "negativo": 684.0,
    "day": "21-04-2020"
   },
   {
-   "enojo": 123.0,
-   "anticipacion": 282.0,
-   "disgusto": 23.0,
-   "miedo": 1070.0,
-   "alegria": 71.0,
-   "tristeza": 87.0,
-   "sorpresa": 2.0,
-   "confianza": 95.0,
+
    "neutro": 1295.0,
    "positivo": 525.0,
    "negativo": 554.0,
    "day": "22-04-2020"
   },
   {
-   "enojo": 117.0,
-   "anticipacion": 263.0,
-   "disgusto": 22.0,
-   "miedo": 1124.0,
-   "alegria": 43.0,
-   "tristeza": 89.0,
-   "sorpresa": 4.0,
-   "confianza": 109.0,
+
    "neutro": 1238.0,
    "positivo": 501.0,
    "negativo": 587.0,
    "day": "23-04-2020"
   },
   {
-   "enojo": 109.0,
-   "anticipacion": 246.0,
-   "disgusto": 22.0,
-   "miedo": 1008.0,
-   "alegria": 51.0,
-   "tristeza": 100.0,
-   "sorpresa": 4.0,
-   "confianza": 99.0,
+
    "neutro": 1230.0,
    "positivo": 495.0,
    "negativo": 563.0,
    "day": "24-04-2020"
   },
   {
-   "enojo": 74.0,
-   "anticipacion": 249.0,
-   "disgusto": 31.0,
-   "miedo": 904.0,
-   "alegria": 43.0,
-   "tristeza": 69.0,
-   "sorpresa": 6.0,
-   "confianza": 67.0,
+
    "neutro": 1156.0,
    "positivo": 420.0,
    "negativo": 458.0,
    "day": "25-04-2020"
   },
   {
-   "enojo": 86.0,
-   "anticipacion": 280.0,
-   "disgusto": 33.0,
-   "miedo": 982.0,
-   "alegria": 36.0,
-   "tristeza": 71.0,
-   "sorpresa": 7.0,
-   "confianza": 81.0,
+
    "neutro": 1143.0,
    "positivo": 463.0,
    "negativo": 460.0,
    "day": "26-04-2020"
   },
   {
-   "enojo": 107.0,
-   "anticipacion": 255.0,
-   "disgusto": 29.0,
-   "miedo": 936.0,
-   "alegria": 52.0,
-   "tristeza": 88.0,
-   "sorpresa": 4.0,
-   "confianza": 86.0,
+
    "neutro": 1135.0,
    "positivo": 445.0,
    "negativo": 565.0,
    "day": "27-04-2020"
   },
   {
-   "enojo": 110.0,
-   "anticipacion": 262.0,
-   "disgusto": 19.0,
-   "miedo": 939.0,
-   "alegria": 51.0,
-   "tristeza": 78.0,
-   "sorpresa": 6.0,
-   "confianza": 71.0,
+
    "neutro": 1075.0,
    "positivo": 411.0,
    "negativo": 556.0,
    "day": "28-04-2020"
   },
   {
-   "enojo": 93.0,
-   "anticipacion": 247.0,
-   "disgusto": 25.0,
-   "miedo": 903.0,
-   "alegria": 38.0,
-   "tristeza": 71.0,
-   "sorpresa": 5.0,
-   "confianza": 90.0,
+
    "neutro": 1063.0,
    "positivo": 443.0,
    "negativo": 482.0,
    "day": "29-04-2020"
   },
   {
-   "enojo": 106.0,
-   "anticipacion": 267.0,
-   "disgusto": 25.0,
-   "miedo": 753.0,
-   "alegria": 37.0,
-   "tristeza": 75.0,
-   "sorpresa": 3.0,
-   "confianza": 87.0,
+
    "neutro": 933.0,
    "positivo": 433.0,
    "negativo": 460.0,
    "day": "30-04-2020"
   },
   {
-   "enojo": 103.0,
-   "anticipacion": 236.0,
-   "disgusto": 32.0,
-   "miedo": 806.0,
-   "alegria": 31.0,
-   "tristeza": 78.0,
-   "sorpresa": 3.0,
-   "confianza": 51.0,
+
    "neutro": 939.0,
    "positivo": 385.0,
    "negativo": 477.0,
    "day": "01-05-2020"
   },
   {
-   "enojo": 100.0,
-   "anticipacion": 218.0,
-   "disgusto": 31.0,
-   "miedo": 829.0,
-   "alegria": 40.0,
-   "tristeza": 67.0,
-   "sorpresa": 6.0,
-   "confianza": 99.0,
+
    "neutro": 951.0,
    "positivo": 417.0,
    "negativo": 490.0,
    "day": "02-05-2020"
   },
   {
-   "enojo": 91.0,
-   "anticipacion": 221.0,
-   "disgusto": 36.0,
-   "miedo": 823.0,
-   "alegria": 35.0,
-   "tristeza": 58.0,
-   "sorpresa": 4.0,
-   "confianza": 76.0,
-   "neutro": NaN,
+
+   "neutro": 0.0,
    "positivo": 388.0,
    "negativo": 460.0,
    "day": "03-05-2020"
   },
   {
-   "enojo": 79.0,
-   "anticipacion": 227.0,
-   "disgusto": 17.0,
-   "miedo": 741.0,
-   "alegria": 32.0,
-   "tristeza": 86.0,
-   "sorpresa": 2.0,
-   "confianza": 102.0,
+
    "neutro": 932.0,
    "positivo": 406.0,
    "negativo": 426.0,
    "day": "04-05-2020"
   },
   {
-   "enojo": 98.0,
-   "anticipacion": 244.0,
-   "disgusto": 18.0,
-   "miedo": 878.0,
-   "alegria": 36.0,
-   "tristeza": 64.0,
-   "sorpresa": 6.0,
-   "confianza": 97.0,
+
    "neutro": 943.0,
    "positivo": 408.0,
    "negativo": 554.0,
    "day": "05-05-2020"
   },
   {
-   "enojo": 92.0,
-   "anticipacion": 205.0,
-   "disgusto": 30.0,
-   "miedo": 827.0,
-   "alegria": 42.0,
-   "tristeza": 74.0,
-   "sorpresa": 2.0,
-   "confianza": 70.0,
+
    "neutro": 903.0,
    "positivo": 370.0,
    "negativo": 493.0,
    "day": "06-05-2020"
   },
   {
-   "enojo": 82.0,
-   "anticipacion": 230.0,
-   "disgusto": 22.0,
-   "miedo": 851.0,
-   "alegria": 64.0,
-   "tristeza": 65.0,
-   "sorpresa": 3.0,
-   "confianza": 74.0,
+
    "neutro": 972.0,
    "positivo": 438.0,
    "negativo": 445.0,
    "day": "07-05-2020"
   },
   {
-   "enojo": 99.0,
-   "anticipacion": 218.0,
-   "disgusto": 31.0,
-   "miedo": 826.0,
-   "alegria": 33.0,
-   "tristeza": 66.0,
-   "sorpresa": 7.0,
-   "confianza": 72.0,
+
    "neutro": 920.0,
    "positivo": 398.0,
    "negativo": 477.0,
    "day": "08-05-2020"
   },
   {
-   "enojo": 64.0,
-   "anticipacion": 185.0,
-   "disgusto": 18.0,
-   "miedo": 772.0,
-   "alegria": 23.0,
-   "tristeza": 60.0,
-   "sorpresa": 2.0,
-   "confianza": 48.0,
+
    "neutro": 897.0,
    "positivo": 335.0,
    "negativo": 419.0,
    "day": "09-05-2020"
   },
   {
-   "enojo": 57.0,
-   "anticipacion": 152.0,
-   "disgusto": 9.0,
-   "miedo": 512.0,
-   "alegria": 31.0,
-   "tristeza": 44.0,
-   "sorpresa": 2.0,
-   "confianza": 44.0,
+
    "neutro": 640.0,
    "positivo": 262.0,
    "negativo": 285.0,
    "day": "10-05-2020"
   },
   {
-   "enojo": 73.0,
-   "anticipacion": 125.0,
-   "disgusto": 11.0,
-   "miedo": 514.0,
-   "alegria": 19.0,
-   "tristeza": 49.0,
-   "sorpresa": 2.0,
-   "confianza": 59.0,
+
    "neutro": 536.0,
    "positivo": 269.0,
    "negativo": 322.0,
    "day": "11-05-2020"
   },
   {
-   "enojo": 78.0,
-   "anticipacion": 213.0,
-   "disgusto": 32.0,
-   "miedo": 741.0,
-   "alegria": 34.0,
-   "tristeza": 79.0,
-   "sorpresa": 2.0,
-   "confianza": 74.0,
+
    "neutro": 820.0,
    "positivo": 380.0,
    "negativo": 476.0,
    "day": "12-05-2020"
   },
   {
-   "enojo": 88.0,
-   "anticipacion": 240.0,
-   "disgusto": 25.0,
-   "miedo": 821.0,
-   "alegria": 30.0,
-   "tristeza": 61.0,
-   "sorpresa": 5.0,
-   "confianza": 67.0,
+
    "neutro": 841.0,
    "positivo": 407.0,
    "negativo": 510.0,
    "day": "13-05-2020"
   },
   {
-   "enojo": 86.0,
-   "anticipacion": 201.0,
-   "disgusto": 20.0,
-   "miedo": 810.0,
-   "alegria": 27.0,
-   "tristeza": 56.0,
-   "sorpresa": 2.0,
-   "confianza": 76.0,
+
    "neutro": 917.0,
    "positivo": 345.0,
    "negativo": 453.0,
    "day": "14-05-2020"
   },
   {
-   "enojo": 65.0,
-   "anticipacion": 176.0,
-   "disgusto": 36.0,
-   "miedo": 636.0,
-   "alegria": 29.0,
-   "tristeza": 68.0,
-   "sorpresa": 0.0,
-   "confianza": 69.0,
+
    "neutro": 745.0,
    "positivo": 308.0,
    "negativo": 398.0,
    "day": "15-05-2020"
   },
   {
-   "enojo": 68.0,
-   "anticipacion": 181.0,
-   "disgusto": 33.0,
-   "miedo": 615.0,
-   "alegria": 30.0,
-   "tristeza": 60.0,
-   "sorpresa": 1.0,
-   "confianza": 46.0,
+
    "neutro": 769.0,
    "positivo": 305.0,
    "negativo": 362.0,
    "day": "16-05-2020"
   },
   {
-   "enojo": 68.0,
-   "anticipacion": 149.0,
-   "disgusto": 24.0,
-   "miedo": 617.0,
-   "alegria": 21.0,
-   "tristeza": 54.0,
-   "sorpresa": 4.0,
-   "confianza": 44.0,
+
    "neutro": 706.0,
    "positivo": 242.0,
    "negativo": 345.0,
    "day": "17-05-2020"
   },
   {
-   "enojo": 65.0,
-   "anticipacion": 183.0,
-   "disgusto": 14.0,
-   "miedo": 673.0,
-   "alegria": 35.0,
-   "tristeza": 48.0,
-   "sorpresa": 3.0,
-   "confianza": 50.0,
+
    "neutro": 750.0,
    "positivo": 306.0,
    "negativo": 353.0,
    "day": "18-05-2020"
   },
   {
-   "enojo": 71.0,
-   "anticipacion": 157.0,
-   "disgusto": 27.0,
-   "miedo": 658.0,
-   "alegria": 27.0,
-   "tristeza": 49.0,
-   "sorpresa": 0.0,
-   "confianza": 52.0,
+
    "neutro": 765.0,
    "positivo": 288.0,
    "negativo": 387.0,
    "day": "19-05-2020"
   },
   {
-   "enojo": 70.0,
-   "anticipacion": 153.0,
-   "disgusto": 15.0,
-   "miedo": 646.0,
-   "alegria": 29.0,
-   "tristeza": 67.0,
-   "sorpresa": 3.0,
-   "confianza": 78.0,
+
    "neutro": 811.0,
    "positivo": 291.0,
    "negativo": 359.0,
    "day": "20-05-2020"
   },
   {
-   "enojo": 70.0,
-   "anticipacion": 202.0,
-   "disgusto": 15.0,
-   "miedo": 736.0,
-   "alegria": 31.0,
-   "tristeza": 63.0,
-   "sorpresa": 3.0,
-   "confianza": 90.0,
+
    "neutro": 838.0,
    "positivo": 337.0,
    "negativo": 469.0,
    "day": "21-05-2020"
   },
   {
-   "enojo": 89.0,
-   "anticipacion": 209.0,
-   "disgusto": 25.0,
-   "miedo": 605.0,
-   "alegria": 40.0,
-   "tristeza": 58.0,
-   "sorpresa": 1.0,
-   "confianza": 62.0,
+
    "neutro": 738.0,
    "positivo": 310.0,
    "negativo": 400.0,
    "day": "22-05-2020"
   },
   {
-   "enojo": 54.0,
-   "anticipacion": 183.0,
-   "disgusto": 26.0,
-   "miedo": 565.0,
-   "alegria": 33.0,
-   "tristeza": 63.0,
-   "sorpresa": 1.0,
-   "confianza": 62.0,
+
    "neutro": 738.0,
    "positivo": 301.0,
    "negativo": 367.0,
    "day": "23-05-2020"
   },
   {
-   "enojo": 57.0,
-   "anticipacion": 164.0,
-   "disgusto": 21.0,
-   "miedo": 628.0,
-   "alegria": 21.0,
-   "tristeza": 56.0,
-   "sorpresa": 3.0,
-   "confianza": 53.0,
+
    "neutro": 670.0,
    "positivo": 271.0,
    "negativo": 401.0,
    "day": "24-05-2020"
   },
   {
-   "enojo": 69.0,
-   "anticipacion": 168.0,
-   "disgusto": 19.0,
-   "miedo": 647.0,
-   "alegria": 29.0,
-   "tristeza": 63.0,
-   "sorpresa": 3.0,
-   "confianza": 46.0,
+
    "neutro": 676.0,
    "positivo": 272.0,
    "negativo": 415.0,
    "day": "25-05-2020"
   },
   {
-   "enojo": 67.0,
-   "anticipacion": 164.0,
-   "disgusto": 22.0,
-   "miedo": 619.0,
-   "alegria": 34.0,
-   "tristeza": 78.0,
-   "sorpresa": 2.0,
-   "confianza": 62.0,
+
    "neutro": 657.0,
    "positivo": 285.0,
    "negativo": 421.0,
    "day": "26-05-2020"
   },
   {
-   "enojo": 66.0,
-   "anticipacion": 176.0,
-   "disgusto": 30.0,
-   "miedo": 592.0,
-   "alegria": 28.0,
-   "tristeza": 66.0,
-   "sorpresa": 0.0,
-   "confianza": 75.0,
+
    "neutro": 663.0,
    "positivo": 280.0,
    "negativo": 428.0,
    "day": "27-05-2020"
   },
   {
-   "enojo": 63.0,
-   "anticipacion": 136.0,
-   "disgusto": 25.0,
-   "miedo": 648.0,
-   "alegria": 20.0,
-   "tristeza": 80.0,
-   "sorpresa": 2.0,
-   "confianza": 60.0,
+
    "neutro": 653.0,
    "positivo": 274.0,
    "negativo": 477.0,
    "day": "28-05-2020"
   },
   {
-   "enojo": 67.0,
-   "anticipacion": 156.0,
-   "disgusto": 18.0,
-   "miedo": 543.0,
-   "alegria": 24.0,
-   "tristeza": 49.0,
-   "sorpresa": 2.0,
-   "confianza": 41.0,
+
    "neutro": 661.0,
    "positivo": 234.0,
    "negativo": 341.0,
    "day": "29-05-2020"
   },
   {
-   "enojo": 42.0,
-   "anticipacion": 137.0,
-   "disgusto": 19.0,
-   "miedo": 551.0,
-   "alegria": 20.0,
-   "tristeza": 59.0,
-   "sorpresa": 0.0,
-   "confianza": 57.0,
-   "neutro": NaN,
+
+   "neutro": 0.0,
    "positivo": 269.0,
    "negativo": 310.0,
    "day": "30-05-2020"
   },
   {
-   "enojo": 53.0,
-   "anticipacion": 120.0,
-   "disgusto": 14.0,
-   "miedo": 455.0,
-   "alegria": 19.0,
-   "tristeza": 52.0,
-   "sorpresa": 4.0,
-   "confianza": 46.0,
+
    "neutro": 562.0,
    "positivo": 195.0,
    "negativo": 305.0,
    "day": "31-05-2020"
   },
   {
-   "enojo": 53.0,
-   "anticipacion": 127.0,
-   "disgusto": 7.0,
-   "miedo": 420.0,
-   "alegria": 14.0,
-   "tristeza": 49.0,
-   "sorpresa": 3.0,
-   "confianza": 63.0,
+
    "neutro": 489.0,
    "positivo": 220.0,
    "negativo": 321.0,
    "day": "01-06-2020"
   },
   {
-   "enojo": 65.0,
-   "anticipacion": 108.0,
-   "disgusto": 13.0,
-   "miedo": 428.0,
-   "alegria": 26.0,
-   "tristeza": 67.0,
-   "sorpresa": 0.0,
-   "confianza": 66.0,
+
    "neutro": 489.0,
    "positivo": 241.0,
    "negativo": 371.0,
    "day": "02-06-2020"
   },
   {
-   "enojo": 76.0,
-   "anticipacion": 132.0,
-   "disgusto": 14.0,
-   "miedo": 469.0,
-   "alegria": 24.0,
-   "tristeza": 61.0,
-   "sorpresa": 3.0,
-   "confianza": 58.0,
+
    "neutro": 506.0,
    "positivo": 216.0,
    "negativo": 388.0,
    "day": "03-06-2020"
   },
   {
-   "enojo": 113.0,
-   "anticipacion": 141.0,
-   "disgusto": 26.0,
-   "miedo": 497.0,
-   "alegria": 26.0,
-   "tristeza": 82.0,
-   "sorpresa": 0.0,
-   "confianza": 63.0,
+
    "neutro": 639.0,
    "positivo": 244.0,
    "negativo": 435.0,
    "day": "04-06-2020"
   },
   {
-   "enojo": 80.0,
-   "anticipacion": 115.0,
-   "disgusto": 14.0,
-   "miedo": 409.0,
-   "alegria": 16.0,
-   "tristeza": 65.0,
-   "sorpresa": 0.0,
-   "confianza": 37.0,
+
    "neutro": 474.0,
    "positivo": 196.0,
    "negativo": 346.0,
    "day": "05-06-2020"
   },
   {
-   "enojo": 55.0,
-   "anticipacion": 133.0,
-   "disgusto": 21.0,
-   "miedo": 369.0,
-   "alegria": 22.0,
-   "tristeza": 51.0,
-   "sorpresa": 2.0,
-   "confianza": 42.0,
+
    "neutro": 465.0,
    "positivo": 223.0,
    "negativo": 276.0,
    "day": "06-06-2020"
   },
   {
-   "enojo": 61.0,
-   "anticipacion": 111.0,
-   "disgusto": 15.0,
-   "miedo": 421.0,
-   "alegria": 24.0,
-   "tristeza": 50.0,
-   "sorpresa": 2.0,
-   "confianza": 48.0,
+
    "neutro": 474.0,
    "positivo": 231.0,
    "negativo": 292.0,
    "day": "07-06-2020"
   },
   {
-   "enojo": 79.0,
-   "anticipacion": 146.0,
-   "disgusto": 32.0,
-   "miedo": 452.0,
-   "alegria": 30.0,
-   "tristeza": 57.0,
-   "sorpresa": 3.0,
-   "confianza": 49.0,
+
    "neutro": 547.0,
    "positivo": 221.0,
    "negativo": 375.0,
    "day": "08-06-2020"
   },
   {
-   "enojo": 47.0,
-   "anticipacion": 142.0,
-   "disgusto": 14.0,
-   "miedo": 452.0,
-   "alegria": 29.0,
-   "tristeza": 67.0,
-   "sorpresa": 2.0,
-   "confianza": 54.0,
+
    "neutro": 525.0,
    "positivo": 224.0,
    "negativo": 359.0,
    "day": "09-06-2020"
   },
   {
-   "enojo": 66.0,
-   "anticipacion": 129.0,
-   "disgusto": 18.0,
-   "miedo": 440.0,
-   "alegria": 22.0,
-   "tristeza": 59.0,
-   "sorpresa": 1.0,
-   "confianza": 46.0,
+
    "neutro": 523.0,
    "positivo": 214.0,
    "negativo": 322.0,
    "day": "10-06-2020"
   },
   {
-   "enojo": 49.0,
-   "anticipacion": 124.0,
-   "disgusto": 19.0,
-   "miedo": 489.0,
-   "alegria": 17.0,
-   "tristeza": 63.0,
-   "sorpresa": 2.0,
-   "confianza": 43.0,
+
    "neutro": 481.0,
    "positivo": 161.0,
    "negativo": 424.0,
    "day": "11-06-2020"
   },
   {
-   "enojo": 55.0,
-   "anticipacion": 138.0,
-   "disgusto": 19.0,
-   "miedo": 519.0,
-   "alegria": 25.0,
-   "tristeza": 49.0,
-   "sorpresa": 1.0,
-   "confianza": 44.0,
+
    "neutro": 548.0,
    "positivo": 212.0,
    "negativo": 371.0,
    "day": "12-06-2020"
   },
   {
-   "enojo": 83.0,
-   "anticipacion": 192.0,
-   "disgusto": 36.0,
-   "miedo": 438.0,
-   "alegria": 29.0,
-   "tristeza": 61.0,
-   "sorpresa": 8.0,
-   "confianza": 90.0,
+
    "neutro": 567.0,
    "positivo": 325.0,
    "negativo": 368.0,
    "day": "13-06-2020"
   },
   {
-   "enojo": 61.0,
-   "anticipacion": 125.0,
-   "disgusto": 70.0,
-   "miedo": 405.0,
-   "alegria": 25.0,
-   "tristeza": 43.0,
-   "sorpresa": 1.0,
-   "confianza": 65.0,
+
    "neutro": 487.0,
    "positivo": 221.0,
    "negativo": 333.0,
    "day": "14-06-2020"
   },
   {
-   "enojo": 59.0,
-   "anticipacion": 141.0,
-   "disgusto": 15.0,
-   "miedo": 499.0,
-   "alegria": 26.0,
-   "tristeza": 82.0,
-   "sorpresa": 1.0,
-   "confianza": 51.0,
+
    "neutro": 490.0,
    "positivo": 212.0,
    "negativo": 428.0,
    "day": "15-06-2020"
   },
   {
-   "enojo": 64.0,
-   "anticipacion": 127.0,
-   "disgusto": 20.0,
-   "miedo": 400.0,
-   "alegria": 18.0,
-   "tristeza": 64.0,
-   "sorpresa": 5.0,
-   "confianza": 49.0,
+
    "neutro": 462.0,
    "positivo": 192.0,
    "negativo": 346.0,
    "day": "16-06-2020"
   },
   {
-   "enojo": 79.0,
-   "anticipacion": 106.0,
-   "disgusto": 9.0,
-   "miedo": 395.0,
-   "alegria": 26.0,
-   "tristeza": 85.0,
-   "sorpresa": 3.0,
-   "confianza": 36.0,
-   "neutro": NaN,
+
+   "neutro": 0.0,
    "positivo": 168.0,
    "negativo": 356.0,
    "day": "17-06-2020"
   },
   {
-   "enojo": 48.0,
-   "anticipacion": 137.0,
-   "disgusto": 9.0,
-   "miedo": 405.0,
-   "alegria": 30.0,
-   "tristeza": 74.0,
-   "sorpresa": 0.0,
-   "confianza": 49.0,
+
    "neutro": 460.0,
    "positivo": 209.0,
    "negativo": 332.0,
    "day": "18-06-2020"
   },
   {
-   "enojo": 36.0,
-   "anticipacion": 136.0,
-   "disgusto": 20.0,
-   "miedo": 423.0,
-   "alegria": 16.0,
-   "tristeza": 45.0,
-   "sorpresa": 1.0,
-   "confianza": 44.0,
+
    "neutro": 427.0,
    "positivo": 178.0,
    "negativo": 334.0,
    "day": "19-06-2020"
   },
   {
-   "enojo": 47.0,
-   "anticipacion": 128.0,
-   "disgusto": 11.0,
-   "miedo": 358.0,
-   "alegria": 18.0,
-   "tristeza": 36.0,
-   "sorpresa": 1.0,
-   "confianza": 45.0,
+
    "neutro": 423.0,
    "positivo": 153.0,
    "negativo": 274.0,
    "day": "20-06-2020"
   },
   {
-   "enojo": 41.0,
-   "anticipacion": 88.0,
-   "disgusto": 8.0,
-   "miedo": 301.0,
-   "alegria": 8.0,
-   "tristeza": 54.0,
-   "sorpresa": 1.0,
-   "confianza": 47.0,
+
    "neutro": 378.0,
    "positivo": 128.0,
    "negativo": 240.0,
    "day": "21-06-2020"
   },
   {
-   "enojo": 40.0,
-   "anticipacion": 102.0,
-   "disgusto": 17.0,
-   "miedo": 348.0,
-   "alegria": 22.0,
-   "tristeza": 58.0,
-   "sorpresa": 2.0,
-   "confianza": 31.0,
+
    "neutro": 409.0,
    "positivo": 148.0,
    "negativo": 288.0,
    "day": "22-06-2020"
   },
   {
-   "enojo": 76.0,
-   "anticipacion": 106.0,
-   "disgusto": 22.0,
-   "miedo": 452.0,
-   "alegria": 19.0,
-   "tristeza": 76.0,
-   "sorpresa": 0.0,
-   "confianza": 35.0,
+
    "neutro": 429.0,
    "positivo": 154.0,
    "negativo": 436.0,
    "day": "23-06-2020"
   },
   {
-   "enojo": 47.0,
-   "anticipacion": 111.0,
-   "disgusto": 18.0,
-   "miedo": 338.0,
-   "alegria": 16.0,
-   "tristeza": 45.0,
-   "sorpresa": 0.0,
-   "confianza": 39.0,
+
    "neutro": 377.0,
    "positivo": 158.0,
    "negativo": 302.0,
    "day": "24-06-2020"
   },
   {
-   "enojo": 53.0,
-   "anticipacion": 108.0,
-   "disgusto": 17.0,
-   "miedo": 395.0,
-   "alegria": 19.0,
-   "tristeza": 50.0,
-   "sorpresa": 3.0,
-   "confianza": 48.0,
+
    "neutro": 448.0,
    "positivo": 166.0,
    "negativo": 325.0,
    "day": "25-06-2020"
   },
   {
-   "enojo": 48.0,
-   "anticipacion": 96.0,
-   "disgusto": 13.0,
-   "miedo": 327.0,
-   "alegria": 17.0,
-   "tristeza": 36.0,
-   "sorpresa": 1.0,
-   "confianza": 48.0,
+
    "neutro": 372.0,
    "positivo": 160.0,
    "negativo": 254.0,
    "day": "26-06-2020"
   },
   {
-   "enojo": 52.0,
-   "anticipacion": 80.0,
-   "disgusto": 9.0,
-   "miedo": 311.0,
-   "alegria": 29.0,
-   "tristeza": 61.0,
-   "sorpresa": 1.0,
-   "confianza": 33.0,
-   "neutro": NaN,
+
+   "neutro": 0.0,
    "positivo": 155.0,
    "negativo": 268.0,
    "day": "27-06-2020"
