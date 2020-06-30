@@ -2,478 +2,478 @@
  "time": "Mon Jun  25 17:15:56 2020",
  "data": [
   {
-   "neutro": 1460.0,
-   "positivo": 521.0,
-   "negativo": 684.0,
+   "Tweets_Neutro": 1460.0,
+   "Tweets_Positivo": 521.0,
+   "Tweets_Negativo": 684.0,
    "day": "21-04-2020"
   },
   {
 
-   "neutro": 1295.0,
-   "positivo": 525.0,
-   "negativo": 554.0,
+   "Tweets_Neutro": 1295.0,
+   "Tweets_Positivo": 525.0,
+   "Tweets_Negativo": 554.0,
    "day": "22-04-2020"
   },
   {
 
-   "neutro": 1238.0,
-   "positivo": 501.0,
-   "negativo": 587.0,
+   "Tweets_Neutro": 1238.0,
+   "Tweets_Positivo": 501.0,
+   "Tweets_Negativo": 587.0,
    "day": "23-04-2020"
   },
   {
 
-   "neutro": 1230.0,
-   "positivo": 495.0,
-   "negativo": 563.0,
+   "Tweets_Neutro": 1230.0,
+   "Tweets_Positivo": 495.0,
+   "Tweets_Negativo": 563.0,
    "day": "24-04-2020"
   },
   {
 
-   "neutro": 1156.0,
-   "positivo": 420.0,
-   "negativo": 458.0,
+   "Tweets_Neutro": 1156.0,
+   "Tweets_Positivo": 420.0,
+   "Tweets_Negativo": 458.0,
    "day": "25-04-2020"
   },
   {
 
-   "neutro": 1143.0,
-   "positivo": 463.0,
-   "negativo": 460.0,
+   "Tweets_Neutro": 1143.0,
+   "Tweets_Positivo": 463.0,
+   "Tweets_Negativo": 460.0,
    "day": "26-04-2020"
   },
   {
 
-   "neutro": 1135.0,
-   "positivo": 445.0,
-   "negativo": 565.0,
+   "Tweets_Neutro": 1135.0,
+   "Tweets_Positivo": 445.0,
+   "Tweets_Negativo": 565.0,
    "day": "27-04-2020"
   },
   {
 
-   "neutro": 1075.0,
-   "positivo": 411.0,
-   "negativo": 556.0,
+   "Tweets_Neutro": 1075.0,
+   "Tweets_Positivo": 411.0,
+   "Tweets_Negativo": 556.0,
    "day": "28-04-2020"
   },
   {
 
-   "neutro": 1063.0,
-   "positivo": 443.0,
-   "negativo": 482.0,
+   "Tweets_Neutro": 1063.0,
+   "Tweets_Positivo": 443.0,
+   "Tweets_Negativo": 482.0,
    "day": "29-04-2020"
   },
   {
 
-   "neutro": 933.0,
-   "positivo": 433.0,
-   "negativo": 460.0,
+   "Tweets_Neutro": 933.0,
+   "Tweets_Positivo": 433.0,
+   "Tweets_Negativo": 460.0,
    "day": "30-04-2020"
   },
   {
 
-   "neutro": 939.0,
-   "positivo": 385.0,
-   "negativo": 477.0,
+   "Tweets_Neutro": 939.0,
+   "Tweets_Positivo": 385.0,
+   "Tweets_Negativo": 477.0,
    "day": "01-05-2020"
   },
   {
 
-   "neutro": 951.0,
-   "positivo": 417.0,
-   "negativo": 490.0,
+   "Tweets_Neutro": 951.0,
+   "Tweets_Positivo": 417.0,
+   "Tweets_Negativo": 490.0,
    "day": "02-05-2020"
   },
   {
 
-   "neutro": 0.0,
-   "positivo": 388.0,
-   "negativo": 460.0,
+   "Tweets_Neutro": 0.0,
+   "Tweets_Positivo": 388.0,
+   "Tweets_Negativo": 460.0,
    "day": "03-05-2020"
   },
   {
 
-   "neutro": 932.0,
-   "positivo": 406.0,
-   "negativo": 426.0,
+   "Tweets_Neutro": 932.0,
+   "Tweets_Positivo": 406.0,
+   "Tweets_Negativo": 426.0,
    "day": "04-05-2020"
   },
   {
 
-   "neutro": 943.0,
-   "positivo": 408.0,
-   "negativo": 554.0,
+   "Tweets_Neutro": 943.0,
+   "Tweets_Positivo": 408.0,
+   "Tweets_Negativo": 554.0,
    "day": "05-05-2020"
   },
   {
 
-   "neutro": 903.0,
-   "positivo": 370.0,
-   "negativo": 493.0,
+   "Tweets_Neutro": 903.0,
+   "Tweets_Positivo": 370.0,
+   "Tweets_Negativo": 493.0,
    "day": "06-05-2020"
   },
   {
 
-   "neutro": 972.0,
-   "positivo": 438.0,
-   "negativo": 445.0,
+   "Tweets_Neutro": 972.0,
+   "Tweets_Positivo": 438.0,
+   "Tweets_Negativo": 445.0,
    "day": "07-05-2020"
   },
   {
 
-   "neutro": 920.0,
-   "positivo": 398.0,
-   "negativo": 477.0,
+   "Tweets_Neutro": 920.0,
+   "Tweets_Positivo": 398.0,
+   "Tweets_Negativo": 477.0,
    "day": "08-05-2020"
   },
   {
 
-   "neutro": 897.0,
-   "positivo": 335.0,
-   "negativo": 419.0,
+   "Tweets_Neutro": 897.0,
+   "Tweets_Positivo": 335.0,
+   "Tweets_Negativo": 419.0,
    "day": "09-05-2020"
   },
   {
 
-   "neutro": 640.0,
-   "positivo": 262.0,
-   "negativo": 285.0,
+   "Tweets_Neutro": 640.0,
+   "Tweets_Positivo": 262.0,
+   "Tweets_Negativo": 285.0,
    "day": "10-05-2020"
   },
   {
 
-   "neutro": 536.0,
-   "positivo": 269.0,
-   "negativo": 322.0,
+   "Tweets_Neutro": 536.0,
+   "Tweets_Positivo": 269.0,
+   "Tweets_Negativo": 322.0,
    "day": "11-05-2020"
   },
   {
 
-   "neutro": 820.0,
-   "positivo": 380.0,
-   "negativo": 476.0,
+   "Tweets_Neutro": 820.0,
+   "Tweets_Positivo": 380.0,
+   "Tweets_Negativo": 476.0,
    "day": "12-05-2020"
   },
   {
 
-   "neutro": 841.0,
-   "positivo": 407.0,
-   "negativo": 510.0,
+   "Tweets_Neutro": 841.0,
+   "Tweets_Positivo": 407.0,
+   "Tweets_Negativo": 510.0,
    "day": "13-05-2020"
   },
   {
 
-   "neutro": 917.0,
-   "positivo": 345.0,
-   "negativo": 453.0,
+   "Tweets_Neutro": 917.0,
+   "Tweets_Positivo": 345.0,
+   "Tweets_Negativo": 453.0,
    "day": "14-05-2020"
   },
   {
 
-   "neutro": 745.0,
-   "positivo": 308.0,
-   "negativo": 398.0,
+   "Tweets_Neutro": 745.0,
+   "Tweets_Positivo": 308.0,
+   "Tweets_Negativo": 398.0,
    "day": "15-05-2020"
   },
   {
 
-   "neutro": 769.0,
-   "positivo": 305.0,
-   "negativo": 362.0,
+   "Tweets_Neutro": 769.0,
+   "Tweets_Positivo": 305.0,
+   "Tweets_Negativo": 362.0,
    "day": "16-05-2020"
   },
   {
 
-   "neutro": 706.0,
-   "positivo": 242.0,
-   "negativo": 345.0,
+   "Tweets_Neutro": 706.0,
+   "Tweets_Positivo": 242.0,
+   "Tweets_Negativo": 345.0,
    "day": "17-05-2020"
   },
   {
 
-   "neutro": 750.0,
-   "positivo": 306.0,
-   "negativo": 353.0,
+   "Tweets_Neutro": 750.0,
+   "Tweets_Positivo": 306.0,
+   "Tweets_Negativo": 353.0,
    "day": "18-05-2020"
   },
   {
 
-   "neutro": 765.0,
-   "positivo": 288.0,
-   "negativo": 387.0,
+   "Tweets_Neutro": 765.0,
+   "Tweets_Positivo": 288.0,
+   "Tweets_Negativo": 387.0,
    "day": "19-05-2020"
   },
   {
 
-   "neutro": 811.0,
-   "positivo": 291.0,
-   "negativo": 359.0,
+   "Tweets_Neutro": 811.0,
+   "Tweets_Positivo": 291.0,
+   "Tweets_Negativo": 359.0,
    "day": "20-05-2020"
   },
   {
 
-   "neutro": 838.0,
-   "positivo": 337.0,
-   "negativo": 469.0,
+   "Tweets_Neutro": 838.0,
+   "Tweets_Positivo": 337.0,
+   "Tweets_Negativo": 469.0,
    "day": "21-05-2020"
   },
   {
 
-   "neutro": 738.0,
-   "positivo": 310.0,
-   "negativo": 400.0,
+   "Tweets_Neutro": 738.0,
+   "Tweets_Positivo": 310.0,
+   "Tweets_Negativo": 400.0,
    "day": "22-05-2020"
   },
   {
 
-   "neutro": 738.0,
-   "positivo": 301.0,
-   "negativo": 367.0,
+   "Tweets_Neutro": 738.0,
+   "Tweets_Positivo": 301.0,
+   "Tweets_Negativo": 367.0,
    "day": "23-05-2020"
   },
   {
 
-   "neutro": 670.0,
-   "positivo": 271.0,
-   "negativo": 401.0,
+   "Tweets_Neutro": 670.0,
+   "Tweets_Positivo": 271.0,
+   "Tweets_Negativo": 401.0,
    "day": "24-05-2020"
   },
   {
 
-   "neutro": 676.0,
-   "positivo": 272.0,
-   "negativo": 415.0,
+   "Tweets_Neutro": 676.0,
+   "Tweets_Positivo": 272.0,
+   "Tweets_Negativo": 415.0,
    "day": "25-05-2020"
   },
   {
 
-   "neutro": 657.0,
-   "positivo": 285.0,
-   "negativo": 421.0,
+   "Tweets_Neutro": 657.0,
+   "Tweets_Positivo": 285.0,
+   "Tweets_Negativo": 421.0,
    "day": "26-05-2020"
   },
   {
 
-   "neutro": 663.0,
-   "positivo": 280.0,
-   "negativo": 428.0,
+   "Tweets_Neutro": 663.0,
+   "Tweets_Positivo": 280.0,
+   "Tweets_Negativo": 428.0,
    "day": "27-05-2020"
   },
   {
 
-   "neutro": 653.0,
-   "positivo": 274.0,
-   "negativo": 477.0,
+   "Tweets_Neutro": 653.0,
+   "Tweets_Positivo": 274.0,
+   "Tweets_Negativo": 477.0,
    "day": "28-05-2020"
   },
   {
 
-   "neutro": 661.0,
-   "positivo": 234.0,
-   "negativo": 341.0,
+   "Tweets_Neutro": 661.0,
+   "Tweets_Positivo": 234.0,
+   "Tweets_Negativo": 341.0,
    "day": "29-05-2020"
   },
   {
 
-   "neutro": 0.0,
-   "positivo": 269.0,
-   "negativo": 310.0,
+   "Tweets_Neutro": 0.0,
+   "Tweets_Positivo": 269.0,
+   "Tweets_Negativo": 310.0,
    "day": "30-05-2020"
   },
   {
 
-   "neutro": 562.0,
-   "positivo": 195.0,
-   "negativo": 305.0,
+   "Tweets_Neutro": 562.0,
+   "Tweets_Positivo": 195.0,
+   "Tweets_Negativo": 305.0,
    "day": "31-05-2020"
   },
   {
 
-   "neutro": 489.0,
-   "positivo": 220.0,
-   "negativo": 321.0,
+   "Tweets_Neutro": 489.0,
+   "Tweets_Positivo": 220.0,
+   "Tweets_Negativo": 321.0,
    "day": "01-06-2020"
   },
   {
 
-   "neutro": 489.0,
-   "positivo": 241.0,
-   "negativo": 371.0,
+   "Tweets_Neutro": 489.0,
+   "Tweets_Positivo": 241.0,
+   "Tweets_Negativo": 371.0,
    "day": "02-06-2020"
   },
   {
 
-   "neutro": 506.0,
-   "positivo": 216.0,
-   "negativo": 388.0,
+   "Tweets_Neutro": 506.0,
+   "Tweets_Positivo": 216.0,
+   "Tweets_Negativo": 388.0,
    "day": "03-06-2020"
   },
   {
 
-   "neutro": 639.0,
-   "positivo": 244.0,
-   "negativo": 435.0,
+   "Tweets_Neutro": 639.0,
+   "Tweets_Positivo": 244.0,
+   "Tweets_Negativo": 435.0,
    "day": "04-06-2020"
   },
   {
 
-   "neutro": 474.0,
-   "positivo": 196.0,
-   "negativo": 346.0,
+   "Tweets_Neutro": 474.0,
+   "Tweets_Positivo": 196.0,
+   "Tweets_Negativo": 346.0,
    "day": "05-06-2020"
   },
   {
 
-   "neutro": 465.0,
-   "positivo": 223.0,
-   "negativo": 276.0,
+   "Tweets_Neutro": 465.0,
+   "Tweets_Positivo": 223.0,
+   "Tweets_Negativo": 276.0,
    "day": "06-06-2020"
   },
   {
 
-   "neutro": 474.0,
-   "positivo": 231.0,
-   "negativo": 292.0,
+   "Tweets_Neutro": 474.0,
+   "Tweets_Positivo": 231.0,
+   "Tweets_Negativo": 292.0,
    "day": "07-06-2020"
   },
   {
 
-   "neutro": 547.0,
-   "positivo": 221.0,
-   "negativo": 375.0,
+   "Tweets_Neutro": 547.0,
+   "Tweets_Positivo": 221.0,
+   "Tweets_Negativo": 375.0,
    "day": "08-06-2020"
   },
   {
 
-   "neutro": 525.0,
-   "positivo": 224.0,
-   "negativo": 359.0,
+   "Tweets_Neutro": 525.0,
+   "Tweets_Positivo": 224.0,
+   "Tweets_Negativo": 359.0,
    "day": "09-06-2020"
   },
   {
 
-   "neutro": 523.0,
-   "positivo": 214.0,
-   "negativo": 322.0,
+   "Tweets_Neutro": 523.0,
+   "Tweets_Positivo": 214.0,
+   "Tweets_Negativo": 322.0,
    "day": "10-06-2020"
   },
   {
 
-   "neutro": 481.0,
-   "positivo": 161.0,
-   "negativo": 424.0,
+   "Tweets_Neutro": 481.0,
+   "Tweets_Positivo": 161.0,
+   "Tweets_Negativo": 424.0,
    "day": "11-06-2020"
   },
   {
 
-   "neutro": 548.0,
-   "positivo": 212.0,
-   "negativo": 371.0,
+   "Tweets_Neutro": 548.0,
+   "Tweets_Positivo": 212.0,
+   "Tweets_Negativo": 371.0,
    "day": "12-06-2020"
   },
   {
 
-   "neutro": 567.0,
-   "positivo": 325.0,
-   "negativo": 368.0,
+   "Tweets_Neutro": 567.0,
+   "Tweets_Positivo": 325.0,
+   "Tweets_Negativo": 368.0,
    "day": "13-06-2020"
   },
   {
 
-   "neutro": 487.0,
-   "positivo": 221.0,
-   "negativo": 333.0,
+   "Tweets_Neutro": 487.0,
+   "Tweets_Positivo": 221.0,
+   "Tweets_Negativo": 333.0,
    "day": "14-06-2020"
   },
   {
 
-   "neutro": 490.0,
-   "positivo": 212.0,
-   "negativo": 428.0,
+   "Tweets_Neutro": 490.0,
+   "Tweets_Positivo": 212.0,
+   "Tweets_Negativo": 428.0,
    "day": "15-06-2020"
   },
   {
 
-   "neutro": 462.0,
-   "positivo": 192.0,
-   "negativo": 346.0,
+   "Tweets_Neutro": 462.0,
+   "Tweets_Positivo": 192.0,
+   "Tweets_Negativo": 346.0,
    "day": "16-06-2020"
   },
   {
 
-   "neutro": 0.0,
-   "positivo": 168.0,
-   "negativo": 356.0,
+   "Tweets_Neutro": 0.0,
+   "Tweets_Positivo": 168.0,
+   "Tweets_Negativo": 356.0,
    "day": "17-06-2020"
   },
   {
 
-   "neutro": 460.0,
-   "positivo": 209.0,
-   "negativo": 332.0,
+   "Tweets_Neutro": 460.0,
+   "Tweets_Positivo": 209.0,
+   "Tweets_Negativo": 332.0,
    "day": "18-06-2020"
   },
   {
 
-   "neutro": 427.0,
-   "positivo": 178.0,
-   "negativo": 334.0,
+   "Tweets_Neutro": 427.0,
+   "Tweets_Positivo": 178.0,
+   "Tweets_Negativo": 334.0,
    "day": "19-06-2020"
   },
   {
 
-   "neutro": 423.0,
-   "positivo": 153.0,
-   "negativo": 274.0,
+   "Tweets_Neutro": 423.0,
+   "Tweets_Positivo": 153.0,
+   "Tweets_Negativo": 274.0,
    "day": "20-06-2020"
   },
   {
 
-   "neutro": 378.0,
-   "positivo": 128.0,
-   "negativo": 240.0,
+   "Tweets_Neutro": 378.0,
+   "Tweets_Positivo": 128.0,
+   "Tweets_Negativo": 240.0,
    "day": "21-06-2020"
   },
   {
 
-   "neutro": 409.0,
-   "positivo": 148.0,
-   "negativo": 288.0,
+   "Tweets_Neutro": 409.0,
+   "Tweets_Positivo": 148.0,
+   "Tweets_Negativo": 288.0,
    "day": "22-06-2020"
   },
   {
 
-   "neutro": 429.0,
-   "positivo": 154.0,
-   "negativo": 436.0,
+   "Tweets_Neutro": 429.0,
+   "Tweets_Positivo": 154.0,
+   "Tweets_Negativo": 436.0,
    "day": "23-06-2020"
   },
   {
 
-   "neutro": 377.0,
-   "positivo": 158.0,
-   "negativo": 302.0,
+   "Tweets_Neutro": 377.0,
+   "Tweets_Positivo": 158.0,
+   "Tweets_Negativo": 302.0,
    "day": "24-06-2020"
   },
   {
 
-   "neutro": 448.0,
-   "positivo": 166.0,
-   "negativo": 325.0,
+   "Tweets_Neutro": 448.0,
+   "Tweets_Positivo": 166.0,
+   "Tweets_Negativo": 325.0,
    "day": "25-06-2020"
   },
   {
 
-   "neutro": 372.0,
-   "positivo": 160.0,
-   "negativo": 254.0,
+   "Tweets_Neutro": 372.0,
+   "Tweets_Positivo": 160.0,
+   "Tweets_Negativo": 254.0,
    "day": "26-06-2020"
   },
   {
 
-   "neutro": 0.0,
-   "positivo": 155.0,
-   "negativo": 268.0,
+   "Tweets_Neutro": 0.0,
+   "Tweets_Positivo": 155.0,
+   "Tweets_Negativo": 268.0,
    "day": "27-06-2020"
   }
  ]
