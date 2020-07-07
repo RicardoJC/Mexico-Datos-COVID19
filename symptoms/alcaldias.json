@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "time": "Tue Jun 30 11:17:11 2020",
+    "time": "Mon Jul 06 14:50:22 2020",
     "features": [
         {
             "type": "Feature",
@@ -1566,8 +1566,8 @@
                 "nomgeo": "Azcapotzalco",
                 "municipio": "2",
                 "data": {
-                    "sintomas": 342,
-                    "mentales": 187
+                    "sintomas": 354,
+                    "mentales": 200
                 }
             }
         },
@@ -3999,8 +3999,8 @@
                 "nomgeo": "Iztacalco",
                 "municipio": "6",
                 "data": {
-                    "sintomas": 277,
-                    "mentales": 150
+                    "sintomas": 284,
+                    "mentales": 156
                 }
             }
         },
@@ -11748,8 +11748,8 @@
                 "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
-                    "sintomas": 494,
-                    "mentales": 407
+                    "sintomas": 512,
+                    "mentales": 415
                 }
             }
         },
@@ -18922,8 +18922,8 @@
                 "nomgeo": "Venustiano Carranza",
                 "municipio": "17",
                 "data": {
-                    "sintomas": 232,
-                    "mentales": 166
+                    "sintomas": 241,
+                    "mentales": 174
                 }
             }
         },
@@ -26535,8 +26535,8 @@
                 "nomgeo": "Tlalpan",
                 "municipio": "12",
                 "data": {
-                    "sintomas": 632,
-                    "mentales": 350
+                    "sintomas": 656,
+                    "mentales": 364
                 }
             }
         },
@@ -33677,8 +33677,8 @@
                 "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
-                    "sintomas": 2117,
-                    "mentales": 1182
+                    "sintomas": 2181,
+                    "mentales": 1219
                 }
             }
         },
@@ -38374,8 +38374,8 @@
                 "nomgeo": "Iztapalapa",
                 "municipio": "7",
                 "data": {
-                    "sintomas": 478,
-                    "mentales": 253
+                    "sintomas": 502,
+                    "mentales": 263
                 }
             }
         },
@@ -40275,8 +40275,8 @@
                 "nomgeo": "Milpa Alta",
                 "municipio": "9",
                 "data": {
-                    "sintomas": 24,
-                    "mentales": 2
+                    "sintomas": 29,
+                    "mentales": 4
                 }
             }
         },
@@ -41828,8 +41828,8 @@
                 "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
-                    "sintomas": 1573,
-                    "mentales": 925
+                    "sintomas": 1652,
+                    "mentales": 965
                 }
             }
         },
@@ -45441,8 +45441,8 @@
                 "nomgeo": "Gustavo A. Madero",
                 "municipio": "5",
                 "data": {
-                    "sintomas": 423,
-                    "mentales": 286
+                    "sintomas": 441,
+                    "mentales": 304
                 }
             }
         },
@@ -48210,8 +48210,8 @@
                 "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
-                    "sintomas": 985,
-                    "mentales": 577
+                    "sintomas": 1015,
+                    "mentales": 601
                 }
             }
         },
@@ -51391,8 +51391,8 @@
                 "nomgeo": "Miguel Hidalgo",
                 "municipio": "16",
                 "data": {
-                    "sintomas": 918,
-                    "mentales": 492
+                    "sintomas": 956,
+                    "mentales": 504
                 }
             }
         },
@@ -59045,8 +59045,8 @@
                 "nomgeo": "Tláhuac",
                 "municipio": "11",
                 "data": {
-                    "sintomas": 37,
-                    "mentales": 24
+                    "sintomas": 38,
+                    "mentales": 25
                 }
             }
         }
