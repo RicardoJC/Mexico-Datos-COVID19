@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "time": "Mon Jul 06 14:50:22 2020",
+    "time": "Mon Jul 13 10:15:40 2020",
     "features": [
         {
             "type": "Feature",
@@ -1566,8 +1566,8 @@
                 "nomgeo": "Azcapotzalco",
                 "municipio": "2",
                 "data": {
-                    "sintomas": 354,
-                    "mentales": 200
+                    "sintomas": 365,
+                    "mentales": 206
                 }
             }
         },
@@ -3999,8 +3999,8 @@
                 "nomgeo": "Iztacalco",
                 "municipio": "6",
                 "data": {
-                    "sintomas": 284,
-                    "mentales": 156
+                    "sintomas": 288,
+                    "mentales": 163
                 }
             }
         },
@@ -11748,8 +11748,8 @@
                 "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
-                    "sintomas": 512,
-                    "mentales": 415
+                    "sintomas": 532,
+                    "mentales": 421
                 }
             }
         },
@@ -18922,8 +18922,8 @@
                 "nomgeo": "Venustiano Carranza",
                 "municipio": "17",
                 "data": {
-                    "sintomas": 241,
-                    "mentales": 174
+                    "sintomas": 251,
+                    "mentales": 177
                 }
             }
         },
@@ -26535,8 +26535,8 @@
                 "nomgeo": "Tlalpan",
                 "municipio": "12",
                 "data": {
-                    "sintomas": 656,
-                    "mentales": 364
+                    "sintomas": 675,
+                    "mentales": 371
                 }
             }
         },
@@ -33677,8 +33677,8 @@
                 "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
-                    "sintomas": 2181,
-                    "mentales": 1219
+                    "sintomas": 2247,
+                    "mentales": 1246
                 }
             }
         },
@@ -38374,8 +38374,8 @@
                 "nomgeo": "Iztapalapa",
                 "municipio": "7",
                 "data": {
-                    "sintomas": 502,
-                    "mentales": 263
+                    "sintomas": 516,
+                    "mentales": 269
                 }
             }
         },
@@ -41828,8 +41828,8 @@
                 "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
-                    "sintomas": 1652,
-                    "mentales": 965
+                    "sintomas": 1747,
+                    "mentales": 1005
                 }
             }
         },
@@ -45441,8 +45441,8 @@
                 "nomgeo": "Gustavo A. Madero",
                 "municipio": "5",
                 "data": {
-                    "sintomas": 441,
-                    "mentales": 304
+                    "sintomas": 467,
+                    "mentales": 309
                 }
             }
         },
@@ -48210,8 +48210,8 @@
                 "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
-                    "sintomas": 1015,
-                    "mentales": 601
+                    "sintomas": 1047,
+                    "mentales": 616
                 }
             }
         },
@@ -51391,8 +51391,8 @@
                 "nomgeo": "Miguel Hidalgo",
                 "municipio": "16",
                 "data": {
-                    "sintomas": 956,
-                    "mentales": 504
+                    "sintomas": 985,
+                    "mentales": 521
                 }
             }
         },
@@ -59045,8 +59045,8 @@
                 "nomgeo": "Tláhuac",
                 "municipio": "11",
                 "data": {
-                    "sintomas": 38,
-                    "mentales": 25
+                    "sintomas": 46,
+                    "mentales": 27
                 }
             }
         }
