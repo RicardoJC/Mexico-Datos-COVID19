@@ -1,6 +1,7 @@
 {
-"time":"Mon Jul 20 00:57:40 2020",
+"time":"Mon Jul 27 09:32:49 2020",
  "data": [
+{ "Estados mentales":6, "Sintomas COVID":6, "day":"2020-03-30"},
 { "Estados mentales":122, "Sintomas COVID":176, "day":"2020-03-31"},
 { "Estados mentales":113, "Sintomas COVID":184, "day":"2020-04-01"},
 { "Estados mentales":117, "Sintomas COVID":212, "day":"2020-04-02"},
@@ -112,5 +113,12 @@
 { "Estados mentales":32, "Sintomas COVID":40, "day":"2020-07-17"},
 { "Estados mentales":15, "Sintomas COVID":33, "day":"2020-07-18"},
 { "Estados mentales":20, "Sintomas COVID":31, "day":"2020-07-19"},
-{ "Estados mentales":2, "Sintomas COVID":6, "day":"2020-07-20"}]
+{ "Estados mentales":29, "Sintomas COVID":55, "day":"2020-07-20"},
+{ "Estados mentales":25, "Sintomas COVID":62, "day":"2020-07-21"},
+{ "Estados mentales":32, "Sintomas COVID":58, "day":"2020-07-22"},
+{ "Estados mentales":20, "Sintomas COVID":35, "day":"2020-07-23"},
+{ "Estados mentales":27, "Sintomas COVID":55, "day":"2020-07-24"},
+{ "Estados mentales":22, "Sintomas COVID":51, "day":"2020-07-25"},
+{ "Estados mentales":12, "Sintomas COVID":44, "day":"2020-07-26"},
+{ "Estados mentales":30, "Sintomas COVID":55, "day":"2020-07-27"}]
 }
