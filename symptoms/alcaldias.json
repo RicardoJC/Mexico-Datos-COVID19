@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "time": "Mon Jul 27 09:32:49 2020",
+    "time": "Mon Aug 03 00:23:11 2020",
     "features": [
         {
             "type": "Feature",
@@ -1566,8 +1566,8 @@
                 "nomgeo": "Azcapotzalco",
                 "municipio": "2",
                 "data": {
-                    "sintomas": 407,
-                    "mentales": 225
+                    "sintomas": 424,
+                    "mentales": 237
                 }
             }
         },
@@ -3999,8 +3999,8 @@
                 "nomgeo": "Iztacalco",
                 "municipio": "6",
                 "data": {
-                    "sintomas": 302,
-                    "mentales": 179
+                    "sintomas": 314,
+                    "mentales": 187
                 }
             }
         },
@@ -11745,11 +11745,11 @@
                 "cve_mun": "010",
                 "cvegeo": "09010",
                 "cve_ent": "09",
-                "nomgeo": "\u00c1lvaro Obreg\u00f3n",
+                "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
-                    "sintomas": 606,
-                    "mentales": 444
+                    "sintomas": 637,
+                    "mentales": 455
                 }
             }
         },
@@ -18922,8 +18922,8 @@
                 "nomgeo": "Venustiano Carranza",
                 "municipio": "17",
                 "data": {
-                    "sintomas": 264,
-                    "mentales": 188
+                    "sintomas": 270,
+                    "mentales": 192
                 }
             }
         },
@@ -26535,8 +26535,8 @@
                 "nomgeo": "Tlalpan",
                 "municipio": "12",
                 "data": {
-                    "sintomas": 728,
-                    "mentales": 394
+                    "sintomas": 747,
+                    "mentales": 408
                 }
             }
         },
@@ -33674,11 +33674,11 @@
                 "cve_mun": "015",
                 "cvegeo": "09015",
                 "cve_ent": "09",
-                "nomgeo": "Cuauht\u00e9moc",
+                "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
-                    "sintomas": 2376,
-                    "mentales": 1320
+                    "sintomas": 2434,
+                    "mentales": 1343
                 }
             }
         },
@@ -38374,8 +38374,8 @@
                 "nomgeo": "Iztapalapa",
                 "municipio": "7",
                 "data": {
-                    "sintomas": 550,
-                    "mentales": 290
+                    "sintomas": 558,
+                    "mentales": 292
                 }
             }
         },
@@ -41825,11 +41825,11 @@
                 "cve_mun": "014",
                 "cvegeo": "09014",
                 "cve_ent": "09",
-                "nomgeo": "Benito Ju\u00e1rez",
+                "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
-                    "sintomas": 1890,
-                    "mentales": 1088
+                    "sintomas": 1960,
+                    "mentales": 1133
                 }
             }
         },
@@ -45441,8 +45441,8 @@
                 "nomgeo": "Gustavo A. Madero",
                 "municipio": "5",
                 "data": {
-                    "sintomas": 487,
-                    "mentales": 324
+                    "sintomas": 498,
+                    "mentales": 331
                 }
             }
         },
@@ -48207,11 +48207,11 @@
                 "cve_mun": "003",
                 "cvegeo": "09003",
                 "cve_ent": "09",
-                "nomgeo": "Coyoac\u00e1n",
+                "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
-                    "sintomas": 1114,
-                    "mentales": 652
+                    "sintomas": 1142,
+                    "mentales": 674
                 }
             }
         },
@@ -51391,8 +51391,8 @@
                 "nomgeo": "Miguel Hidalgo",
                 "municipio": "16",
                 "data": {
-                    "sintomas": 1044,
-                    "mentales": 551
+                    "sintomas": 1075,
+                    "mentales": 565
                 }
             }
         },
@@ -59042,10 +59042,10 @@
                 "cve_mun": "011",
                 "cvegeo": "09011",
                 "cve_ent": "09",
-                "nomgeo": "Tl\u00e1huac",
+                "nomgeo": "Tláhuac",
                 "municipio": "11",
                 "data": {
-                    "sintomas": 53,
+                    "sintomas": 55,
                     "mentales": 33
                 }
             }
