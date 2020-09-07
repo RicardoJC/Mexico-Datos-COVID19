@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "time": "Mon Aug 24 01:11:03 2020",
+    "time": "Sun Sep 06 23:57:32 2020",
     "features": [
         {
             "type": "Feature",
@@ -1566,8 +1566,8 @@
                 "nomgeo": "Azcapotzalco",
                 "municipio": "2",
                 "data": {
-                    "sintomas": 462,
-                    "mentales": 259
+                    "sintomas": 484,
+                    "mentales": 268
                 }
             }
         },
@@ -3999,8 +3999,8 @@
                 "nomgeo": "Iztacalco",
                 "municipio": "6",
                 "data": {
-                    "sintomas": 350,
-                    "mentales": 192
+                    "sintomas": 359,
+                    "mentales": 201
                 }
             }
         },
@@ -11748,8 +11748,8 @@
                 "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
-                    "sintomas": 695,
-                    "mentales": 477
+                    "sintomas": 727,
+                    "mentales": 489
                 }
             }
         },
@@ -18922,8 +18922,8 @@
                 "nomgeo": "Venustiano Carranza",
                 "municipio": "17",
                 "data": {
-                    "sintomas": 288,
-                    "mentales": 202
+                    "sintomas": 301,
+                    "mentales": 211
                 }
             }
         },
@@ -26535,8 +26535,8 @@
                 "nomgeo": "Tlalpan",
                 "municipio": "12",
                 "data": {
-                    "sintomas": 809,
-                    "mentales": 453
+                    "sintomas": 838,
+                    "mentales": 463
                 }
             }
         },
@@ -33677,8 +33677,8 @@
                 "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
-                    "sintomas": 2584,
-                    "mentales": 1417
+                    "sintomas": 2658,
+                    "mentales": 1441
                 }
             }
         },
@@ -38374,8 +38374,8 @@
                 "nomgeo": "Iztapalapa",
                 "municipio": "7",
                 "data": {
-                    "sintomas": 584,
-                    "mentales": 306
+                    "sintomas": 612,
+                    "mentales": 322
                 }
             }
         },
@@ -41828,8 +41828,8 @@
                 "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
-                    "sintomas": 2169,
-                    "mentales": 1242
+                    "sintomas": 2277,
+                    "mentales": 1295
                 }
             }
         },
@@ -45441,8 +45441,8 @@
                 "nomgeo": "Gustavo A. Madero",
                 "municipio": "5",
                 "data": {
-                    "sintomas": 517,
-                    "mentales": 349
+                    "sintomas": 550,
+                    "mentales": 359
                 }
             }
         },
@@ -48210,8 +48210,8 @@
                 "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
-                    "sintomas": 1222,
-                    "mentales": 714
+                    "sintomas": 1257,
+                    "mentales": 729
                 }
             }
         },
@@ -51391,8 +51391,8 @@
                 "nomgeo": "Miguel Hidalgo",
                 "municipio": "16",
                 "data": {
-                    "sintomas": 1158,
-                    "mentales": 598
+                    "sintomas": 1187,
+                    "mentales": 623
                 }
             }
         },
@@ -59045,7 +59045,7 @@
                 "nomgeo": "Tláhuac",
                 "municipio": "11",
                 "data": {
-                    "sintomas": 62,
+                    "sintomas": 64,
                     "mentales": 35
                 }
             }
