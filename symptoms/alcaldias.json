@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "time": "Sun Sep 06 23:57:32 2020",
+    "time": "Mon Sep 21 02:47:09 2020",
     "features": [
         {
             "type": "Feature",
@@ -1566,8 +1566,8 @@
                 "nomgeo": "Azcapotzalco",
                 "municipio": "2",
                 "data": {
-                    "sintomas": 484,
-                    "mentales": 268
+                    "sintomas": 505,
+                    "mentales": 275
                 }
             }
         },
@@ -3999,8 +3999,8 @@
                 "nomgeo": "Iztacalco",
                 "municipio": "6",
                 "data": {
-                    "sintomas": 359,
-                    "mentales": 201
+                    "sintomas": 370,
+                    "mentales": 209
                 }
             }
         },
@@ -11748,8 +11748,8 @@
                 "nomgeo": "Álvaro Obregón",
                 "municipio": "10",
                 "data": {
-                    "sintomas": 727,
-                    "mentales": 489
+                    "sintomas": 754,
+                    "mentales": 507
                 }
             }
         },
@@ -18922,8 +18922,8 @@
                 "nomgeo": "Venustiano Carranza",
                 "municipio": "17",
                 "data": {
-                    "sintomas": 301,
-                    "mentales": 211
+                    "sintomas": 314,
+                    "mentales": 219
                 }
             }
         },
@@ -26535,8 +26535,8 @@
                 "nomgeo": "Tlalpan",
                 "municipio": "12",
                 "data": {
-                    "sintomas": 838,
-                    "mentales": 463
+                    "sintomas": 870,
+                    "mentales": 494
                 }
             }
         },
@@ -33677,8 +33677,8 @@
                 "nomgeo": "Cuauhtémoc",
                 "municipio": "15",
                 "data": {
-                    "sintomas": 2658,
-                    "mentales": 1441
+                    "sintomas": 2722,
+                    "mentales": 1478
                 }
             }
         },
@@ -38374,8 +38374,8 @@
                 "nomgeo": "Iztapalapa",
                 "municipio": "7",
                 "data": {
-                    "sintomas": 612,
-                    "mentales": 322
+                    "sintomas": 632,
+                    "mentales": 328
                 }
             }
         },
@@ -40275,7 +40275,7 @@
                 "nomgeo": "Milpa Alta",
                 "municipio": "9",
                 "data": {
-                    "sintomas": 32,
+                    "sintomas": 33,
                     "mentales": 5
                 }
             }
@@ -41828,8 +41828,8 @@
                 "nomgeo": "Benito Juárez",
                 "municipio": "14",
                 "data": {
-                    "sintomas": 2277,
-                    "mentales": 1295
+                    "sintomas": 2395,
+                    "mentales": 1359
                 }
             }
         },
@@ -45441,8 +45441,8 @@
                 "nomgeo": "Gustavo A. Madero",
                 "municipio": "5",
                 "data": {
-                    "sintomas": 550,
-                    "mentales": 359
+                    "sintomas": 573,
+                    "mentales": 370
                 }
             }
         },
@@ -48210,8 +48210,8 @@
                 "nomgeo": "Coyoacán",
                 "municipio": "3",
                 "data": {
-                    "sintomas": 1257,
-                    "mentales": 729
+                    "sintomas": 1285,
+                    "mentales": 741
                 }
             }
         },
@@ -51391,8 +51391,8 @@
                 "nomgeo": "Miguel Hidalgo",
                 "municipio": "16",
                 "data": {
-                    "sintomas": 1187,
-                    "mentales": 623
+                    "sintomas": 1224,
+                    "mentales": 637
                 }
             }
         },
@@ -59046,7 +59046,7 @@
                 "municipio": "11",
                 "data": {
                     "sintomas": 64,
-                    "mentales": 35
+                    "mentales": 37
                 }
             }
         }
